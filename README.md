@@ -16,6 +16,6 @@ A patched build of Luanti for Android that unlocks advanced modding capabilities
 ## Quick Start
 - **Download:** Grab the APK from [Releases](../../releases)
 - **Signing:** Use MT Manager or APK Signer to sign before installing
-- **Docs:** See [https://github.com/xpusera/official-luanti-patch/API.md](API.md) for full reference
+- **Docs:** See [API.md](https://github.com/xpusera/official-luanti-patch/API.md) for full reference
 
 ## More Features Comming Soon.
