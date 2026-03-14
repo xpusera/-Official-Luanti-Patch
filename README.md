@@ -1,6 +1,6 @@
-# -Official-Luanti-Patch
---
+# Luanti Minecraft Mods Port
 
-Luanti patched version for Minecraft mods port
+A patched version of Luanti designed to enable compatibility with Minecraft mods. This project bridges the gap between Luanti's voxel engine and the extensive Minecraft modding ecosystem.
 
---
+checkout ***API's*** for more info
+current version: **v1.0***
