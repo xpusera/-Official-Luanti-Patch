@@ -1,9 +1,10 @@
 # Luanti Patch
 
-A patched version of Luanti designed to enable compatibility with Minecraft mods. This project bridges the gap between Luanti's voxel engine and the extensive Minecraft modding ecosystem.
+A patched version of Luanti that brings Minecraft mod compatibility to the Luanti engine. This project seamlessly bridges Luanti's powerful voxel-based architecture with the vast Minecraft modding ecosystem, allowing developers and players to explore new possibilities.
 
-checkout ***API's*** for more info
+## Quick Start
+- **Current Version:** v1.0
+- **Signing:** Use **MT Manager** or APK Signer to sign the APK
+- **Documentation:** Check out the ***API*** documentation for detailed information
+
 ---
-Current Version: **v1.0**
----
-Use **MT Manager** or Apk signer to sign the apk
