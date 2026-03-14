@@ -5,3 +5,4 @@ A patched version of Luanti designed to enable compatibility with Minecraft mods
 checkout ***API's*** for more info
 ---
 Current Version: **v1.0**
+Use **MT Manager** or Apk signer to sign the apk
