@@ -4,4 +4,4 @@ A patched version of Luanti designed to enable compatibility with Minecraft mods
 
 checkout ***API's*** for more info
 ---
-current version: **v1.0***
+Current Version: **v1.0**
