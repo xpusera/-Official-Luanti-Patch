@@ -8,7 +8,7 @@ A patched build of Luanti for Android that unlocks advanced modding capabilities
 - **glTF Multi-Clip Animations** — full animation clip support with crossfade, bone control, and state machines via `core.animator`
 
 ## Quick Start
-- **Download:** Grab the APK from [Releases](https://github.com/xpusera/-Official-Luanti-Patch/releases/tag/Release)
+- **Download:** Grab the APK from [Releases](https://github.com/xpusera/-Official-Luanti-Patch/releases/tag/apk)
 - **Signing:** Use MT Manager or APK Signer to sign before installing
 - **Docs:** See [API mds](https://github.com/xpusera/-Official-Luanti-Patch/tree/main/API) for full reference
 
